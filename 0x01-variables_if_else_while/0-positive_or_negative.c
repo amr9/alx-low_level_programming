@@ -4,7 +4,8 @@
 
 /**
  * main - main block
- * Description: check if the number is positive,negative or zero followed by a new line.
+ * Description: check if the number is positive,negative or zero 
+ * followed by a new line.
  * Return: Always 0 (Success)
  */
 int main(void)

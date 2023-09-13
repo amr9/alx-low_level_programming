@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * print_alphabet - check the code
  * description : prints alphabet from a to z.
  * Return: nothing.
  */

@@ -2,8 +2,8 @@
 
 /**
  * main - check the code
- *
- * Return: Always 0.
+ * description : prints alphabet from a to z.
+ * Return: nothing.
  */
 void print_alphabet(void)
 {

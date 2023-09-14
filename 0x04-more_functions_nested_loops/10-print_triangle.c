@@ -21,7 +21,7 @@ void print_triangle(int size)
 			y++;
 		}
 		y = 0;
-		while (ii < i)
+		while (y < x)
 		{
 			_putchar('#');
 			y++;

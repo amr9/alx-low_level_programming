@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- *  * main - prints all arguments received
- *   * @argc: number of args
- *    * @argv: string array
- *     * Return: 0
- *      */
+ * main - prints all arguments received
+ * @argc: number of args
+ * @argv: string array
+ *  Return: 0
+ */
 
 int main(int argc, char *argv[])
 {

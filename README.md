@@ -1,2 +1,1 @@
-# alx-low_level_programming
-ALX Baby steps for C programming.
+0x0A-argc_argv

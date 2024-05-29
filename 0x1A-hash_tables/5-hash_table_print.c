@@ -1,4 +1,4 @@
-u#include "hash_tables.h"
+#include "hash_tables.h"
 /**
  * hash_table_print - function that prints a hash table.
  * @ht: A ptr to the hash table to print.
